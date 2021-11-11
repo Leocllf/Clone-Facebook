@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+body{
+    background-color: #F0F2F5;
+}
+img{
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.p1{
+    text-align: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+form{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF;
+    width: 370px;
+    height: 330px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 2px #d3d4d4;
+}
+input{
+    border: solid 1px #cfcfcf;
+    border-radius: 6px;    
+    color: #929292;
+    font-size: 16px;
+}
+input[type=email]{
+    padding-left: 30px;
+}
+.email{
+    display: block;
+    height: 50px;
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    
+}
+input[type=password]{
+    padding-left: 30px;
+}
+.password{
+    display: block;
+    height: 50px;
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.enter{
+    display: block;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: #166FE5;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 20px;
+    border: none;
+}
+.link{
+    text-align: center;
+    margin-bottom: 25px;
+}
+a{
+    text-decoration: none;
+    color: #166FE5;
+    font-size: 15px;
+}
+hr{
+    margin-bottom: 25px;
+}
+.new{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 170px;
+    background-color: #36A420;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 8px;
+}
+.p2{
+    text-align: center;
+    width: 400px;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 60px;
+}
